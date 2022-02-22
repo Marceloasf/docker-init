@@ -1,6 +1,4 @@
-# alura-docker
-
-Projeto do curso de Docker
+# Projeto do curso de Docker
 
 ## Comandos relacionados às informações
 
